@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Jul 04 18:55:58 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0197-d65d-c390-0000045a7a10 
+on database directory C:\Users\admin\IdeaProjects\Projet\monDB with class loader org.jkiss.dbeaver.registry.driver.DriverClassLoader@f2f8313 
+Loaded from file:/C:/Users/admin/AppData/Roaming/DBeaverData/drivers/maven/maven-central/org.apache.derby/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.5+11-LTS
+user.dir=C:\Users\admin\Downloads\genealogie_familiale
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jul 04 18:56:07 CEST 2025:
+Shutting down instance a816c00e-0197-d65d-c390-0000045a7a10 on database directory C:\Users\admin\IdeaProjects\Projet\monDB with class loader org.jkiss.dbeaver.registry.driver.DriverClassLoader@f2f8313 
