@@ -39,12 +39,6 @@ L’objectif est de fournir un outil **simple, intuitif et accessible**, même p
 
 ---
 
-## Technologies utilisées 🛠️
-- **Python** : logique et gestion des données.  
-- **Tkinter** : interface graphique.  
-- **SQLite** : stockage local et persistant.
-
----
 
 ## Classes principales 🏷️
 
@@ -125,6 +119,12 @@ PROJET_GENELOG
 - Ajout de **photos et documents** pour chaque individu 🖼️  
 - Notes biographiques et documents familiaux 📝  
 - Version **multi-utilisateurs** avec base centralisée 🌐
+
+---
+## Technologies utilisées 🛠️
+- **Python** : logique et gestion des données.  
+- **Tkinter** : interface graphique.  
+- **SQLite** : stockage local et persistant.
 
 ---
 
