@@ -105,7 +105,7 @@ PROJET_GENELOG
 ---
 
 ## 🖼️ Aperçu
-# ![Fatimatou](https://github.com/Fatimatou-DIALLO-87/Genelog/blob/master/genelog.gif)
+![Fatimatou](https://github.com/Fatimatou-DIALLO-87/Genelog/blob/master/genelog.gif)
 
 
 ## Informations de test 🧪
