@@ -105,8 +105,10 @@ PROJET_GENELOG
 ---
 
 ## 🖼️ Aperçu
-![Fatimatou](https://github.com/Fatimatou-DIALLO-87/Genelog/blob/master/genelog.gif)
 
+<p align="center">
+  <img src="https://github.com/Fatimatou-DIALLO-87/Genelog/blob/master/genelog.gif" width="500">
+</p>
 
 ## Informations de test 🧪
 - **Nom de la généalogie** : Diallo  
